@@ -1,4 +1,7 @@
 # Consumer Complaint Dashboard
+
+# Dashboard : https://bit.ly/Consumercomplaintdashboard-link
+
 ## Overview
 
 This repository showcases a dynamic consumer complaint dashboard implemented in Power BI, utilizing real-time datasets to provide actionable insights into consumer grievances. The dashboard features dynamic visualizations, top companies analysis, and comprehensive key performance indicators (KPIs) for informed decision-making.
